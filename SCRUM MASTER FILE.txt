@@ -17,7 +17,7 @@ SCRUM Meeting Notes:
 05/04/2016
 Danny - Working on prototype battle system
 Callum - working on music
-Jack - 
+Jack -  working on Enemy statistics
 Martin - Optimise gitHub code weekly
 Jeff - 
 Richard - 
