@@ -18,8 +18,8 @@ SCRUM Meeting Notes:
 Danny - Working on prototype battle system
 Callum - working on music
 Jack -  working on Enemy statistics
-Martin - Optimise gitHub code weekly
-Jeff - 
+Martin - coding battle system
+Jeff - working on enemy statistics
 Richard - 
 
 **One week break so SCRUM meeting may be missed**
