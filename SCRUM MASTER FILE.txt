@@ -2,7 +2,7 @@ Project Team:
 
 Jack Williams- Team Leader
 
-Callum Buchanan- Scrum Master, Audio Engineer
+Callum Buchanan- Scrum Master, Programmer
 
 Martin Eng- Programmer
 
