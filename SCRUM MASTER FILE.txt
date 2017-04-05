@@ -12,7 +12,7 @@ Jeff Lee- Programmer
 
 Richard Bishop- Programmer
 
-SCRUM NOTES
+SCRUM Meeting Notes:
 
 05/04/2016
 Danny - Working on prototype battle system
@@ -21,4 +21,4 @@ Jack -
 Martin -
 Jeff - 
 
-**Two week break so SCRUM meeting may be missed**
+**One week break so SCRUM meeting may be missed**
