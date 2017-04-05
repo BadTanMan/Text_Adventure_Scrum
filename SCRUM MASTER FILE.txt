@@ -2,9 +2,9 @@ Project Team:
 
 Jack Williams- Team Leader
 
-Callum Buchanan- Scrum Master, Programmer
+Callum Buchanan- Scrum Master, GitHub admin, Programmer
 
-Martin Eng- Programmer
+Martin Eng- GitHUb Maintenence
 
 Danny Marshall- Programmer
 
@@ -18,7 +18,8 @@ SCRUM Meeting Notes:
 Danny - Working on prototype battle system
 Callum - working on music
 Jack - 
-Martin -
+Martin - Optimise gitHub code weekly
 Jeff - 
+Richard - 
 
 **One week break so SCRUM meeting may be missed**
