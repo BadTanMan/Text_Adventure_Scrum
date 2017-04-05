@@ -14,11 +14,13 @@ Richard Bishop- Programmer
 
 SCRUM Meeting Notes:
 
-05/04/2016
+05/04/2016 - Wednesday
+meeting took place online via Slack
+
 Danny - Working on prototype battle system
 Callum - working on music
 Jack -  working on Enemy statistics
-Martin - coding battle system
+Martin - debugging code and gitHub maintenence
 Jeff - working on enemy statistics
 Richard - 
 
