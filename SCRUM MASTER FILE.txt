@@ -1,27 +1,70 @@
+Project: Build the Beast
+
+Project Overview:
+  Bottom_Text co. are creating a text adventure game, called "placeholder_name" written in c++. The program is a 32bit console
+  application that runs on Microsoft Windows operating systems. The game will have the user input a variety of commands in order
+  to traverse a dangerous mansion and reach the top floor to escape. Users will be able to attack, defend and cast spells   
+  against enemies as well as pick up items and interact with the environment. "placeholder_name" will relay the story and game 
+  information via text output with accompanying sound effects and music.
+  
+Project Requirements:
+  -user string input with output
+  -battle system for enemy encounters
+  -spell system with counters
+  -enemy and player damage functions
+  -include a story
+  -victory condition
+  -game over condition
+  -catch input errors
+  
+Project Due Date:
+  02/06/2017
+  
 Project Team:
+                    Bottom_Text
+  
+  Jack Williams- Team Leader, Lead Level Design, Story
 
-Jack Williams- Team Leader
+  Callum Buchanan- Scrum Master, GitHub admin, Battle System Programmer, Sound and Music Programmer
 
-Callum Buchanan- Scrum Master, GitHub admin, Programmer
+  Martin Eng- GitHUb Maintenence, Debugging, Level Design and Programming
 
-Martin Eng- GitHUb Maintenence
+  Danny Marshall- Battle System Programmer, Documentation
 
-Danny Marshall- Programmer
+  Jeff Lee- Battle System Programmer, Level Design and Programming
 
-Jeff Lee- Programmer
+  Richard Bishop- Level Design and Programming
 
-Richard Bishop- Programmer
+Programming Language:
+  C++
+  
+Operating System:
+  Microsoft Windows
 
 SCRUM Meeting Notes:
 
-05/04/2016 - Wednesday
-meeting took place online via Slack
+    05/04/2016 - Wednesday
+    MEETING
+    
+    Danny - working on battle system
+    Callum - working on sound, working on battle system
+    Jack -  working on enemy statistics
+    Martin - debugging code and gitHub maintenence
+    Jeff - working on enemy statistics
+    Richard - working on battle system
+  
+    Notes:
+      **One week break so weekly SCRUM will be missed**
+      **No contact from Richard**
+      ** meeting took place online via Slack**
+    
+    07/04/2016 - Friday
+    GENERAL UPDATE
 
-Danny - Working on prototype battle system
-Callum - working on music
-Jack -  working on Enemy statistics
-Martin - debugging code and gitHub maintenence
-Jeff - working on enemy statistics
-Richard - 
-
-**One week break so SCRUM meeting may be missed**
+    Danny - updated batlle system, working on battle system
+    Callum - updated battle system, working on music
+    Jack -  updated Part 1, working on level design and story
+    Martin - debugging code and gitHub maintenence
+    Jeff - working on battle system
+    Richard - working on level design
+  
