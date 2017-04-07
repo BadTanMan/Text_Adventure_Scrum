@@ -1,9 +1,9 @@
-Project: Build the Beast
+Project: Build the Beast by Bottom_Text co.
 
 Project Overview:
   Bottom_Text co. are creating a text adventure game, called "placeholder_name" written in c++. The program is a 32bit console
   application that runs on Microsoft Windows operating systems. The game will have the user input a variety of commands in order
-  to traverse a dangerous mansion and reach the top floor to escape. Users will be able to attack, defend and cast spells   
+  to traverse a dangerous mansion and reach the top floor to escape (4 floors in total). Users will be able to attack, defend and cast spells   
   against enemies as well as pick up items and interact with the environment. "placeholder_name" will relay the story and game 
   information via text output with accompanying sound effects and music.
   
@@ -12,6 +12,7 @@ Project Requirements:
   -battle system for enemy encounters
   -spell system with counters
   -enemy and player damage functions
+  -4 floors to explore in the mansion
   -include a story
   -victory condition
   -game over condition
@@ -19,10 +20,9 @@ Project Requirements:
   
 Project Due Date:
   02/06/2017
+  WEEK 18
   
-Project Team:
-                    Bottom_Text
-  
+Project Team: 
   Jack Williams- Team Leader, Lead Level Design, Story
 
   Callum Buchanan- Scrum Master, GitHub admin, Battle System Programmer, Sound and Music Programmer
@@ -38,33 +38,79 @@ Project Team:
 Programming Language:
   C++
   
+Programming Software:
+  Visual Studio 2015
+  
+Team Communication:
+  Slack
+  Weekly SCRUM meetings
+  
 Operating System:
   Microsoft Windows
+  
+Team Notes:
+  -contact slack if help is required
+  -do not work on or design anything else before completing your assigned role unless help is required
+  -remember to upload to gitHub every now and then
+  
+================================================================================================================================
+                                                SCRUM Meeting Notes
+================================================================================================================================
 
-SCRUM Meeting Notes:
-
-    05/04/2016 - Wednesday
-    MEETING
+    05/04/2017 - Wednesday
+    SCRUM MEETING
     
     Danny - working on battle system
     Callum - working on sound, working on battle system
-    Jack -  working on enemy statistics
-    Martin - debugging code and gitHub maintenence
-    Jeff - working on enemy statistics
-    Richard - working on battle system
-  
-    Notes:
-      **One week break so weekly SCRUM will be missed**
-      **No contact from Richard**
-      ** meeting took place online via Slack**
-    
-    07/04/2016 - Friday
-    GENERAL UPDATE
-
-    Danny - updated batlle system, working on battle system
-    Callum - updated battle system, working on music
-    Jack -  updated Part 1, working on level design and story
+    Jack -  working on battle system
     Martin - debugging code and gitHub maintenence
     Jeff - working on battle system
     Richard - working on level design
   
+    Notes:
+      **One week break so weekly SCRUM will be missed**
+      **No contact from Richard**
+      **Meeting took place online via Slack**
+    
+    07/04/2017 - Friday
+    GENERAL UPDATE
+
+    Danny - updated batlle system, working on battle system
+    Callum - updated battle system, working on music
+    Jack -  updated Floor 1, working on level design and story
+    Martin - debugging code and gitHub maintenence
+    Jeff - working on battle system
+    Richard - working on level design
+    
+    Notes:
+      **Updated team roles**
+    
+    00/00/2017
+    
+    
+    Danny - 
+    Callum - 
+    Jack -  
+    Martin - 
+    Jeff - 
+    Richard - 
+    
+    00/00/2017
+    
+    
+    Danny - 
+    Callum - 
+    Jack -  
+    Martin - 
+    Jeff - 
+    Richard - 
+    
+    00/00/2017
+    
+    
+    Danny - 
+    Callum - 
+    Jack -  
+    Martin - 
+    Jeff - 
+    Richard - 
